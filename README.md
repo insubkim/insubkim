@@ -3,6 +3,4 @@
 - System / OS
   - Linux system programming
   - Process / memory / file / socket / multithread handling
-  - ELF binary structure analysis
-  - FAT32 file system structure analysis
   - Network Protocol analysis (HTTP, ICMP)
