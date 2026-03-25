@@ -1,16 +1,41 @@
-## Hi there 👋
+## Skills
 
-<!--
-**insubkim/insubkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Language
+  - C/C++
+  - x86 Assembly 
 
-Here are some ideas to get you started:
+- System / OS
+  - Linux system programming
+  - Process / memory / file / socket / multithread handling
+  - ELF binary structure analysis
+  - FAT32 file system structure analysis
+  - Basic kernel / low-level debugging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Network
+  - TCP / UDP socket programming
+  - Network packet / protocol analysis (HTTP, ICMP)
+
+- Database / Monitoring
+  - OS,DB monitoring agent / server development
+  - (Oracle / PostgreSql / MongoDB / Tibero / ..)
+
+- Tools / Environment
+  - Linux / Docker
+  - gdb / tcpdump
+  - git /  make
+
+## Experience
+
+- DB monitoring server / agent 
+- HTTP server 
+- FAT32 file recovery tool 
+- ELF binary 분석 / packer
+- ICMP (ping)
+
+## Interests
+
+- Kernel / low-level programming
+- Network stack
+- Reverse engineering
+- Binary / executable format
+- Rust
